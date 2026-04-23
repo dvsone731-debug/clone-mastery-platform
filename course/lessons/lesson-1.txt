@@ -1,0 +1,3 @@
+Welcome to AI Video Clone Mastery!
+
+In this lesson, you’ll get oriented, understand the course flow, and prepare your tools for building your first AI clone.
