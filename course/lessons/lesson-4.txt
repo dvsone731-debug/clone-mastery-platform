@@ -1,0 +1,6 @@
+Lesson 4: Scripting & Voice
+
+In this lesson, you’ll learn how to write scripts that your AI clone can deliver naturally and convincingly. 
+We cover pacing, tone, structure, and how to write lines that generate clean, expressive outputs.
+
+You’ll also learn how to generate or upload voice models, match vocal tone to your clone, and produce consistent audio for your videos.
