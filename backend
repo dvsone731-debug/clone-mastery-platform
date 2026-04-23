@@ -10,13 +10,3 @@ engine = create_engine(
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
 
 Base = declarative_base()
-fastapi
-uvicorn
-python-multipart
-pydantic
-sqlalchemy
-passlib[bcrypt]
-python-jose
-requests
-redis
-rq
