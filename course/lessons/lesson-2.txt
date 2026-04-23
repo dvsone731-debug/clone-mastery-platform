@@ -1,0 +1,6 @@
+Lesson 2: Your First AI Clone
+
+In this lesson, you’ll create your very first AI video clone. 
+You’ll learn the exact workflow for capturing your source footage, preparing your training data, and generating your first clone output.
+
+By the end of this lesson, you will have a working AI clone you can preview, refine, and build on in future lessons.
