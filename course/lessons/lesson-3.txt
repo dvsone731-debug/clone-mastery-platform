@@ -1,0 +1,6 @@
+Lesson 3: Training Your Clone
+
+In this lesson, you’ll learn how to properly train your AI clone for maximum realism and consistency. 
+We cover data quality, training duration, model behavior, and how to avoid common mistakes that lead to blurry or inconsistent outputs.
+
+By the end of this lesson, you’ll understand how to produce a clean, stable, high‑quality clone that responds well to scripts and direction.
