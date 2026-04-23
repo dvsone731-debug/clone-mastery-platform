@@ -1,0 +1,11 @@
+{
+  "title": "AI Video Clone Mastery",
+  "description": "Your complete course for building, training, and deploying AI video clones.",
+  "lessons": [
+    { "id": 1, "title": "Welcome & Orientation" },
+    { "id": 2, "title": "Your First AI Clone" },
+    { "id": 3, "title": "Training Your Clone" },
+    { "id": 4, "title": "Scripting & Voice" },
+    { "id": 5, "title": "Editing & Delivery" }
+  ]
+}
