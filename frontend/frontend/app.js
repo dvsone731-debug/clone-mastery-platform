@@ -1,4 +1,4 @@
-const API = "https://your-backend-url-here"; // replace with your backend URL
+const API = "https://clone-mastery-platform.onrender.com";
 let token = localStorage.getItem("token") || null;
 
 const authBox = document.getElementById("auth");
